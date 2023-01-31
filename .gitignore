@@ -1,0 +1,7 @@
+git .DS__store
+.idea/
+.vscode/
+.node_modules/
+.build
+.coverage
+node_modules
